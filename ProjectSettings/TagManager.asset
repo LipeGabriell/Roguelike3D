@@ -7,6 +7,7 @@ TagManager:
   - Floor
   - Weapon
   - Enviroment
+  - RoomBase
   layers:
   - Default
   - TransparentFX
